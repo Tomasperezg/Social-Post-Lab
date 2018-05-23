@@ -1,0 +1,53 @@
+body{
+  text-align: center;
+  background-color: #f3f1f7;
+  font-family: 'Oswald', sans-serif;
+}
+.info{
+  background-color: white;
+  margin-left: 25%;
+  margin-right: 25%;
+  text-align: left;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  box-shadow: 0px 0px 5px 0px;
+}
+#thoughts{
+  background: white;
+  margin-bottom: 15px;
+  width: 630px;
+  border-style: solid;
+  box-shadow: 0px 0px 5px 0px;
+
+}
+h1{
+  font-family: 'Open Sans', sans-serif;
+  color: rgb(3, 169, 244);
+  font-size: 24px;
+}
+post-form{
+  text-decoration: underline;
+}
+
+.hide{
+  display: block;
+  position: relative;
+  background-color: #B1DDEA;
+  margin-left: 25%;
+  margin-right: 25%;
+  box-shadow: 0px 0px 5px 0px;
+}
+
+#buttonadd{
+  background: white;
+  margin-bottom: 15px;
+  width: 400px;
+  height: 25px;
+  border-style: solid;
+}
+
+#xbutton{
+
+  display: flex;
+  justify-content: flex-start;
+}
